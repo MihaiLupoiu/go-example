@@ -1,4 +1,4 @@
-# go-example
+# go-example running in fly.io
 
 A minimal Go application for [fly.io Getting Started](https://fly.io/docs/getting-started/golang/) documentation and tutorials.
 
